@@ -12,24 +12,28 @@ namespace OpenKattisSolutions
         static void Main(string[] args)
         {
 
-            char[] input = Console.ReadLine().ToCharArray();
-            if (input.Length == 2) { 
-            int N = int.Parse(Char.ToString(input[0]));
-            int P = int.Parse(Char.ToString(input[1]));
+             string[] input = Console.ReadLine().Split(' ');
+             
             
-            if (N >= 1 && P <= 1000)
-            {
-                string names;
-                string[] contestants = new string[N];
-                for (int i = 0; i < N; i++)
-                {
-                    names = Console.ReadLine();
-                    contestants[i] = names;
-                }
-                Console.WriteLine(P);
-            }
-            }
-
+            
+            
+            //Carrots
+            //int N = int.Parse(input[0]);
+            //int P = int.Parse(input[1]);
+            
+            //if (N >= 1 && P <= 1000)
+            //{
+            //    string names;
+            //    string[] contestants = new string[N];
+            //    for (int i = 0; i < N; i++)
+            //    {
+            //        names = Console.ReadLine();
+            //        contestants[i] = names;
+            //    }
+            //    Console.WriteLine(P);
+            //}
+            
+            //TwoStones
             ////int count = 1;
             //if (input == 1)
             //{
