@@ -46,6 +46,7 @@
     <Compile Include="Carrots.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="R2.cs" />
     <Compile Include="TwoStones.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -16,12 +16,14 @@ namespace OpenKattisSolutions
             //carrots.Solvingcarrots();
             //TwoStones twostones = new TwoStones();
             //twostones.SolveTwoStones();
+            //R2 rtwo = new R2();
+            //rtwo.r2();
+
+           
+
+
 
         }
-
-
-
-
     }
 }
 
