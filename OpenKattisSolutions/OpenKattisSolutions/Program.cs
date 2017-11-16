@@ -12,8 +12,8 @@ namespace OpenKattisSolutions
         static void Main(string[] args)
         {
 
-            
-            
+
+
             //Carrots carrots = new Carrots();
             //carrots.Solvingcarrots();
             //TwoStones twostones = new TwoStones();
@@ -26,13 +26,15 @@ namespace OpenKattisSolutions
             //factor.faktor();
             //Pot pot = new Pot();
             //pot.Power();
+            //ColdPuterScience coldputerscience = new ColdPuterScience();
+            //coldputerscience.Negativenumberscount();
+
 
 
         }
 
     }
 }
-
 
 
 

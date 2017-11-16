@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Carrots.cs" />
+    <Compile Include="ColdPuterScience.cs" />
     <Compile Include="Factor.cs" />
     <Compile Include="Pot.cs" />
     <Compile Include="Program.cs" />
