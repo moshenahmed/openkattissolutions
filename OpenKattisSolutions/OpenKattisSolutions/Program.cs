@@ -14,6 +14,7 @@ namespace OpenKattisSolutions
 
 
 
+
             //Carrots carrots = new Carrots();
             //carrots.Solvingcarrots();
             //TwoStones twostones = new TwoStones();
@@ -28,13 +29,19 @@ namespace OpenKattisSolutions
             //pot.Power();
             //ColdPuterScience coldputerscience = new ColdPuterScience();
             //coldputerscience.Negativenumberscount();
+            //var alarmtime = new Spavanac();
+            //alarmtime.spavanac();
 
 
 
-        }
+
+
+    }
 
     }
 }
+
+
 
 
 
